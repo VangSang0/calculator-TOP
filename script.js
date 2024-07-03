@@ -35,6 +35,7 @@ function operation (num1, num2, operator) {
 }
 
 
+
 console.log(operation(4 , 3, '+'));
 console.log(operation(4 , 3, '-'));
 console.log(operation(4 , 3, '*'));
